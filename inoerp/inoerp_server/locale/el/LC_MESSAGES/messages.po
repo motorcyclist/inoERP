@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2015-03-08 22:57+0800\n"
-"PO-Revision-Date: 2017-11-07 18:25+0200\n"
+"PO-Revision-Date: 2017-11-10 10:31+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -5651,112 +5651,113 @@ msgid "Released Date"
 msgstr "Ημερομηνία προβολής"
 
 msgid "First Unit Completed Date"
-msgstr "Erste Einheit Abschlussdatum"
+msgstr "Ημερομηνία ολοκλήρωσης πρώτης μονάδας"
 
 msgid "Last Unit Completed Date"
-msgstr "Letzte Einheit Abschlussdatum"
+msgstr "Ημερομηνία ολοκλήρωσης τελευταίας μονάδας"
 
 msgid "Schedule Group"
-msgstr "Spielplan-Gruppe"
+msgstr "Ομάδες Προγραμματισμού"
 
 msgid "Build Sequence"
-msgstr "Bauen Sie Sequence"
+msgstr "Χτίσιμο Ακολουθίας"
 
 msgid "Line"
-msgstr "Leitung"
+msgstr "Γραμμή"
 
 msgid "Scheduling Priority"
-msgstr "Scheduling Priority"
+msgstr "Προτεραιότητα Σχεδιασμού"
 
 msgid "Closed Date"
-msgstr "Geschlossen Datum"
+msgstr "Ημερομηνία Κλεισίματος"
 
 msgid "Applied Quantity"
-msgstr "Auftragsmenge"
+msgstr "Ποσότητα Εφαρμογής"
 
 msgid "Queue Quantity"
-msgstr "Queue Menge"
+msgstr "Ποσότητα αναμονής"
 
+#, fuzzy
 msgid "Running Quantity"
-msgstr "Laufende Menge"
+msgstr "Τρέχουσα ποσότητα"
 
 msgid "Rejected Quantity"
-msgstr "Zurückgewiesene Menge"
+msgstr "Απορριφθέισα ποσότητα"
 
 msgid "Tomove Quantity"
-msgstr "ToMove Menge"
+msgstr "Ποσότητα ΠροςΜεταφορά"
 
 msgid "Progress Percentage"
-msgstr "Fortschritt in Prozent"
+msgstr "Ποσοστό προόδου"
 
 msgid "Wip Wol Transaction Id"
-msgstr "Wip Wol Transaction Id"
+msgstr "Wip Wol Συναλλαγές Id"
 
 msgid "Search Paths"
-msgstr "Suchpfade"
+msgstr "Αναζήτηση Μονοπατιών"
 
 msgid "All users"
-msgstr "Alle Nutzer"
+msgstr "Όλοι οι χρήστες"
 
 msgid "Search Users"
-msgstr "Suche Benutzer"
+msgstr "Αναζήτηση Χρηστών"
 
 msgid "New user registration"
-msgstr "Als Benutzer registrieren"
+msgstr "Εγγραφή νέου Χρήστη"
 
 msgid "Registration"
-msgstr "Registration"
+msgstr "Εγγραφή"
 
 msgid "Supplier"
-msgstr "Lieferant"
+msgstr "Προμηθευτής"
 
 msgid "Options"
-msgstr "Optionen"
+msgstr "Επιλογές"
 
 msgid "Option"
-msgstr "Option"
+msgstr "Επιλογή"
 
 msgid "View all the options"
-msgstr "Sehen Sie alle Optionen"
+msgstr "Εμφάνιση όλων των επιλογών"
 
 msgid "View Options"
-msgstr "Optionen anzeigen"
+msgstr "Εμφάνιση Επιλογών"
 
 msgid "All modules"
-msgstr "Alle Module"
+msgstr "Όλα τα modules"
 
 msgid "View Modules"
-msgstr "Ansicht Modules"
+msgstr "Εμφάνιση modules"
 
 msgid "Module creation & update"
-msgstr "Modul Schöpfung & Updates"
+msgstr "Δημιουργία module & ανανέωση"
 
 msgid "Update Modules"
-msgstr "Update-Module"
+msgstr "Ανανέωση modules"
 
 msgid "Organizations"
-msgstr "Organisationen"
+msgstr "Οργανισμοί"
 
 msgid "Create & Update Enterprise"
-msgstr "Erstellen & Aktualisieren Unternehmen"
+msgstr "Δημιουργία Επιχείρησης & ανανέωση"
 
 msgid "Enterprise"
-msgstr "Unternehmen"
+msgstr "Επιχείρηση"
 
 msgid "Path - creation, update & delete"
 msgstr "Path - Erstellen, Aktualisieren und Löschen"
 
 msgid "Create & Update Address"
-msgstr "Erstellen & Aktualisieren Adresse"
+msgstr "Δημιουργία Διεύθυνσης & ανανέωση"
 
 msgid "Chart of Account"
-msgstr "Konto"
+msgstr "Γράφημα του Λογαρισμού"
 
 msgid "Chart Of Accounts"
-msgstr "Konten"
+msgstr "Γράφημα των Λογαρισμών"
 
 msgid "GL Calendar"
-msgstr "GL Kalender"
+msgstr "GL Ημερολόγιο"
 
 msgid "All chart of accounts"
 msgstr "Alle Konten"
